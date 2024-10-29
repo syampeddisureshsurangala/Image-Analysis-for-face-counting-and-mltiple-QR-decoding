@@ -34,5 +34,4 @@ This paper has been published in the International Journal of Scientific Develop
 
 ---
 
-Feel free to adjust or expand upon this as needed. Ready to publish?
 
